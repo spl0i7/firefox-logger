@@ -1,0 +1,15 @@
+{
+  "title": "Mozilla Firefox",
+  "name": "mozilla",
+  "version": "0.0.1",
+  "description": "Mozilla Firefox Addon",
+  "main": "index.js",
+  "author": "spl0i7",
+  "engines": {
+    "firefox": ">=38.0.1a"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "jetpack"
+  ]
+}

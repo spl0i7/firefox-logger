@@ -1,0 +1,20 @@
+{
+  "name": "strokelistener",
+  "version": "0.0.1",
+  "description": "rest listener",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "diskdb": "^0.1.15",
+    "express": "^4.14.0",
+    "request": "^2.73.0",
+    "requests": "^0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main":"app.js",
+  "author": "spl0i7",
+  "license": "GPL-3.0"
+}
