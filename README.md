@@ -51,13 +51,19 @@ $ jpm xpi
 
 * Change directory to *client*.
 * Edit **client.js** to set appropriate password and server address.
+
 ```javascript
 [...]
+
 uri:'http://127.0.0.1:8080/fetch/all';
+
 [...]
+
 key:'7thi5i5s0mek3y!!';
 ```
+
 * This should now throw out logs in json format from the server.
+
 ---
 
 ### Warning
